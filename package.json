@@ -1,0 +1,25 @@
+{
+  "name": "2023002264",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stage6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shetty-vaishnavi/2023002264.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shetty-vaishnavi/2023002264/issues"
+  },
+  "homepage": "https://github.com/shetty-vaishnavi/2023002264#readme",
+  "dependencies": {
+    "axios": "^1.17.0",
+    "dotenv": "^17.4.2"
+  }
+}
